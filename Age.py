@@ -32,7 +32,8 @@ if age_input.isdigit():
     # Output result
     print(f"{first_name} {last_name} is classified as a {category}.")
 else:
-    print("Invalid age. Please enter a valid number.")
+    print("Invalid age. Please enter a valid number.");
+    print("Test Github");
 
 
 #
