@@ -145,6 +145,7 @@ def main() -> None: # Main
 
     print(colors["RESET"])
     print("Gitbug Test")
+    print("Gitbug Test2")
 
 #
 # Main
