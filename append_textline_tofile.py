@@ -144,6 +144,7 @@ def main() -> None: # Main
     append_or_create(text_line, filepath, directory, colors)
 
     print(colors["RESET"])
+    print("Gitbug Test")
 
 #
 # Main
